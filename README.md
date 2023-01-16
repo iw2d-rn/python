@@ -1,9 +1,9 @@
 
-# My Movie List Api
+# Matrix Arithmetic
 
 
 
-My Movie List Api is the API of my project My Movie List.
+It's a Python package to do matrix Arithmetic.
 ## Install
 
 ```bash
